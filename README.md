@@ -1,3 +1,1 @@
-# backendproject
-
-this project was my first node js project with mongodb
+Express Js and MongoDB project
